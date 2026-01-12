@@ -1,2 +1,2 @@
 # Bibliolater
-A self-hosted tool for tracking books you want to read, are reading, or have already read.
+I don't even know what I want to do anymore.
